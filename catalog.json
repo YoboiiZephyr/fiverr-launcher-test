@@ -1,0 +1,61 @@
+{
+  "formatVersion": 1,
+  "buildTime": 1794045165,
+  "announcement": "",
+  "news": [
+    {
+      "title": "Welcome to the new launcher!",
+      "date": "2026-11-07",
+      "text": "Sign in with your Microsoft account and press Play: the modpack installs and updates by itself.",
+      "url": ""
+    },
+    {
+      "title": "Creative server opens soon",
+      "date": "2026-11-01",
+      "text": "Plots and build contests are coming. The modpack is already listed so you can see it first.",
+      "url": ""
+    }
+  ],
+  "launcher": {
+    "minVersion": "",
+    "downloadUrl": ""
+  },
+  "events": [
+    {
+      "id": "survival",
+      "name": "ExampleCraft Survival",
+      "description": "Our main survival server: land claims, a player economy and weekly events.",
+      "status": "OPEN",
+      "startsAt": "",
+      "endsAt": "",
+      "manifestUrl": "packs/survival/manifest-1794045165.json",
+      "server": "play.example.com",
+      "image": "images/e49c512e38d0.png",
+      "publicKey": "",
+      "access": {
+        "type": "PUBLIC",
+        "codeHashes": [],
+        "players": [],
+        "staff": []
+      }
+    },
+    {
+      "id": "creative",
+      "name": "ExampleCraft Creative",
+      "description": "Plots, world edit and build contests. Vanilla client, nothing to install.",
+      "status": "UPCOMING",
+      "startsAt": "",
+      "endsAt": "",
+      "manifestUrl": "packs/creative/manifest-1794045165.json",
+      "server": "creative.example.com",
+      "image": "images/794affe108b7.png",
+      "publicKey": "",
+      "access": {
+        "type": "PUBLIC",
+        "codeHashes": [],
+        "players": [],
+        "staff": []
+      }
+    }
+  ]
+}

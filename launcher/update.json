@@ -1,0 +1,73 @@
+{
+  "formatVersion": 1,
+  "version": "1.0.0",
+  "buildTime": 1794045165,
+  "files": [
+    {
+      "path": "app/.jpackage.xml",
+      "sha1": "30d9d0173aa7ed70623bdd4f24ea6270ef002060",
+      "size": 207,
+      "url": "../objects/30/30d9d0173aa7ed70623bdd4f24ea6270ef002060"
+    },
+    {
+      "path": "app/common-1.0.0.jar",
+      "sha1": "a3137dcd9a456007c6a75a548dba411402be2b27",
+      "size": 18658,
+      "url": "../objects/a3/a3137dcd9a456007c6a75a548dba411402be2b27"
+    },
+    {
+      "path": "app/error_prone_annotations-2.27.0.jar",
+      "sha1": "91b2c29d8a6148b5e2e4930f070d4840e2e48e34",
+      "size": 19370,
+      "url": "../objects/91/91b2c29d8a6148b5e2e4930f070d4840e2e48e34"
+    },
+    {
+      "path": "app/ExampleCraftLauncher.cfg",
+      "sha1": "68d069e64039012ba153aee0fb45197731a51f33",
+      "size": 569,
+      "url": "../objects/68/68d069e64039012ba153aee0fb45197731a51f33"
+    },
+    {
+      "path": "app/gson-2.11.0.jar",
+      "sha1": "527175ca6d81050b53bdd4c457a6d6e017626b0e",
+      "size": 298435,
+      "url": "../objects/52/527175ca6d81050b53bdd4c457a6d6e017626b0e"
+    },
+    {
+      "path": "app/javafx-base-21.0.5-win.jar",
+      "sha1": "be70cdbaba4dd1ff78a570eada78affbbff0a45b",
+      "size": 753974,
+      "url": "../objects/be/be70cdbaba4dd1ff78a570eada78affbbff0a45b"
+    },
+    {
+      "path": "app/javafx-base-21.0.5.jar",
+      "sha1": "c9c1cf2d52bc7dd7b20dab3157963f8aaaf38e47",
+      "size": 302,
+      "url": "../objects/c9/c9c1cf2d52bc7dd7b20dab3157963f8aaaf38e47"
+    },
+    {
+      "path": "app/javafx-controls-21.0.5-win.jar",
+      "sha1": "b0ec9e085b2e0196278905388e865119263736df",
+      "size": 2585171,
+      "url": "../objects/b0/b0ec9e085b2e0196278905388e865119263736df"
+    },
+    {
+      "path": "app/javafx-graphics-21.0.5-win.jar",
+      "sha1": "fff3d317e9e5ef3eda055bf3624720b5c5f4ed49",
+      "size": 5942323,
+      "url": "../objects/ff/fff3d317e9e5ef3eda055bf3624720b5c5f4ed49"
+    },
+    {
+      "path": "app/javafx-graphics-21.0.5.jar",
+      "sha1": "350837836014091df30d45dd67c89122ad385439",
+      "size": 306,
+      "url": "../objects/35/350837836014091df30d45dd67c89122ad385439"
+    },
+    {
+      "path": "app/launcher-1.0.0.jar",
+      "sha1": "16cbe9c8e143d8893c936044743d34c7db02753d",
+      "size": 319360,
+      "url": "../objects/16/16cbe9c8e143d8893c936044743d34c7db02753d"
+    }
+  ]
+}

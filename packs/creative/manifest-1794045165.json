@@ -1,0 +1,32 @@
+{
+  "formatVersion": 1,
+  "name": "ExampleCraft Creative",
+  "version": "1.0.0",
+  "buildTime": 1794045165,
+  "minecraft": "1.21.1",
+  "loader": {
+    "type": "vanilla",
+    "version": ""
+  },
+  "server": "creative.example.com",
+  "news": "",
+  "javaArgs": [
+    "-XX:+UseG1GC"
+  ],
+  "minMemoryMb": 2048,
+  "recommendedMemoryMb": 4096,
+  "lockedDirs": [],
+  "launcher": {
+    "minVersion": "",
+    "downloadUrl": ""
+  },
+  "files": [
+    {
+      "path": "options.txt",
+      "sha1": "c31b9c3fa304e1d02f0de9f5d1e2544276b1a43e",
+      "size": 18,
+      "url": "../../objects/c3/c31b9c3fa304e1d02f0de9f5d1e2544276b1a43e",
+      "policy": "ONCE"
+    }
+  ]
+}
