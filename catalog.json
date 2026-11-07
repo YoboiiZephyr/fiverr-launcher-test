@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "buildTime": 1794045165,
+  "buildTime": 1794045216,
   "announcement": "",
   "news": [
     {
@@ -28,7 +28,7 @@
       "status": "OPEN",
       "startsAt": "",
       "endsAt": "",
-      "manifestUrl": "packs/survival/manifest-1794045165.json",
+      "manifestUrl": "packs/survival/manifest-1794045216.json",
       "server": "play.example.com",
       "image": "images/e49c512e38d0.png",
       "publicKey": "",

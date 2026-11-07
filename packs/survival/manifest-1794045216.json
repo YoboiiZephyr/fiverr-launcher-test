@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "name": "ExampleCraft Survival",
+  "version": "1.0.0",
+  "buildTime": 1794045216,
+  "minecraft": "1.21.1",
+  "loader": {
+    "type": "fabric",
+    "version": "0.16.14"
+  },
+  "server": "play.example.com",
+  "news": "First release of the survival pack.",
+  "javaArgs": [
+    "-XX:+UseG1GC"
+  ],
+  "minMemoryMb": 2048,
+  "recommendedMemoryMb": 4096,
+  "lockedDirs": [
+    "mods"
+  ],
+  "launcher": {
+    "minVersion": "",
+    "downloadUrl": ""
+  },
+  "files": [
+    {
+      "path": "config/example-hud.properties",
+      "sha1": "d5bb1b02c1fed4dc84500054f05477517637c68d",
+      "size": 69,
+      "url": "../../objects/d5/d5bb1b02c1fed4dc84500054f05477517637c68d",
+      "policy": "ENFORCE"
+    },
+    {
+      "path": "options.txt",
+      "sha1": "e812f515ffcb4b1372aced2245e6fc891c4cb30d",
+      "size": 29,
+      "url": "../../objects/e8/e812f515ffcb4b1372aced2245e6fc891c4cb30d",
+      "policy": "ONCE"
+    }
+  ]
+}
